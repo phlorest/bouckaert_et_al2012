@@ -1,0 +1,18 @@
+{
+    "id": "bouckaert_et_al2012",
+    "title": null,
+    "description": null,
+    "license": null,
+    "url": "http://dx.doi.org/10.1126/science.1219669",
+    "citation": "Bouckaert RR, Lemey P, Dunn M, Greenhill SJ, Alekseyenko AV, Drummond AJ, Gray RD, Suchard MA & Atkinson QD. 2012. Mapping the Origins and Expansion of the Indo-European Language Family. Science, 337(6097), 957-960.",
+    "name": "Indo-European (Bouckaert et al. 2012)",
+    "author": "Bouckaert et al.",
+    "year": 2012,
+    "scaling": "years",
+    "analysis": "bayesian",
+    "family": "indo1319",
+    "missing": {
+        "characters": "not retrievable",
+        "cldf": "not available"
+    }
+}
