@@ -1,22 +1,24 @@
-# Indo-European (Bouckaert et al. 2012):
+# Dataset bouckaert_et_al2012
 
-```
-Bouckaert RR, Lemey P, Dunn M, Greenhill SJ, Alekseyenko AV, Drummond AJ, Gray RD, Suchard MA & Atkinson QD. 2012. Mapping the Origins and Expansion of the Indo-European Language Family. Science, 337(6097), 957-960.
-```
+## How to cite
 
-* ID: bouckaert_et_al2012:
-* URL: [http://dx.doi.org/10.1126/science.1219669](http://dx.doi.org/10.1126/science.1219669)
-* Paper: [paper](paper)
-* Original Files: [original](original)
-* Scaling: years
-* Taxa: 103 taxa 
-* Data: [data](data)
-* Nexus: [data.nex](data.nex)
-* Character Specification: None
-* Summary Tree: [summary.trees](summary.trees)
-* Posterior Probability Distribution: [posterior.trees](posterior.trees)
+If you use these data please cite
+- the original source
+  > Bouckaert RR, Lemey P, Dunn M, Greenhill SJ, Alekseyenko AV, Drummond AJ, Gray RD, Suchard MA & Atkinson QD. 2012. Mapping the Origins and Expansion of the Indo-European Language Family. Science, 337(6097), 957-960.
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
-## Errors:
+## Description
 
-* missing characters
-* missing cldf
+
+Available online at http://dx.doi.org/10.1126/science.1219669
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Generic](https://github.com/cldf/cldf/tree/master/modules/Generic) at [cldf/Generic-metadata.json](cldf/Generic-metadata.json)
+
+## Summary Tree
+
+![summary](./summary_tree.svg)
