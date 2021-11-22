@@ -14,12 +14,12 @@
     },
     "dc:identifier": "http://dx.doi.org/10.1126/science.1219669",
     "dc:source": "sources.bib",
-    "dcat:accessURL": "https://github.com/D-PLACE/dplace-tree-bouckaert_et_al2012",
+    "dcat:accessURL": "https://github.com/phlorest/bouckaert_et_al2012",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "https://github.com/D-PLACE/dplace-tree-bouckaert_et_al2012",
+            "rdf:about": "https://github.com/phlorest/bouckaert_et_al2012",
             "rdf:type": "prov:Entity",
-            "dc:created": "7af4bdc",
+            "dc:created": "0ddf6a3",
             "dc:title": "Repository"
         },
         {
