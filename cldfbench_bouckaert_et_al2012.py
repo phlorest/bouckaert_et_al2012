@@ -10,23 +10,24 @@ class Dataset(phlorest.Dataset):
     def cmd_makecldf(self, args):
         self.init(args)
 
-        with self.nexus_summary() as nex:
-            self.add_tree_from_nexus(
-                args,
-                self.raw_dir / '1219669IndoEuropean_2MCCtrees_annotated.tre',
-                nex,
-                'summary')
+        args.writer.add_summary(
+                self.raw_dir.read_tree('1219669IndoEuropean_2MCCtrees_annotated.tre'),
+                self.metadata,
+                args.log)
 
         posterior = self.sample(
             self.remove_burnin(
-                self.read_gzipped_text(
-                    self.raw_dir / 'IE2011_RelaxedCovarion_AllSingletonsGeo_Combined.trees.gz'),
+                self.raw_dir.read('IE2011_RelaxedCovarion_AllSingletonsGeo_Combined.trees.gz'),
                 1000),
             detranslate=True,
             as_nexus=True)
 
-        with self.nexus_posterior() as nex:
-            for i, tree in enumerate(posterior.trees.trees, start=1):
-                self.add_tree(args, tree, nex, 'posterior-{}'.format(i))
+        args.writer.add_posterior(
+            posterior.trees.trees,
+            self.metadata,
+            args.log)
 
-        self.add_data(args, self.raw_dir / 'IELex_Bouckaert2012.nex')
+        args.writer.add_data(
+            self.raw_dir.read_nexus('IELex_Bouckaert2012.nex'),
+            self.characters,
+            args.log)

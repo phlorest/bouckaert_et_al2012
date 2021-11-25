@@ -7,19 +7,26 @@
     ],
     "dc:bibliographicCitation": "Bouckaert RR, Lemey P, Dunn M, Greenhill SJ, Alekseyenko AV, Drummond AJ, Gray RD, Suchard MA & Atkinson QD. 2012. Mapping the Origins and Expansion of the Indo-European Language Family. Science, 337(6097), 957-960.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Generic",
-    "dc:hasPart": {
-        "dc:relation": "data.nex",
-        "dc:description": "The data underlying the analysis which created the phylogeny",
-        "dc:format": "https://en.wikipedia.org/wiki/Nexus_file"
-    },
-    "dc:identifier": "http://dx.doi.org/10.1126/science.1219669",
+    "dc:identifier": "https://doi.org/10.1126/science.1219669",
     "dc:source": "sources.bib",
+    "dc:subject": {
+        "family": "Indo-European [indo1319]",
+        "analysis": "bayesian",
+        "scaling": "years"
+    },
+    "dc:title": "Phlorest phylogeny derived from Bouckaert et al. 2012 'Indo-European (Bouckaert et al. 2012)'",
     "dcat:accessURL": "https://github.com/phlorest/bouckaert_et_al2012",
     "prov:wasDerivedFrom": [
         {
+            "rdf:about": "data.nex",
+            "rdf:type": "prov:Entity",
+            "dc:description": "The data underlying the analysis which created the phylogeny",
+            "dc:format": "https://en.wikipedia.org/wiki/Nexus_file"
+        },
+        {
             "rdf:about": "https://github.com/phlorest/bouckaert_et_al2012",
             "rdf:type": "prov:Entity",
-            "dc:created": "0ddf6a3",
+            "dc:created": "fa057ee",
             "dc:title": "Repository"
         },
         {

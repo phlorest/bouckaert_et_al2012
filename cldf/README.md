@@ -1,6 +1,6 @@
 <a name="ds-genericmetadatajson"> </a>
 
-# Generic Generic
+# Generic Indo-European (Bouckaert et al. 2012)
 
 **CLDF Metadata**: [Generic-metadata.json](./Generic-metadata.json)
 
@@ -10,10 +10,12 @@ property | value
  --- | ---
 [dc:bibliographicCitation](http://purl.org/dc/terms/bibliographicCitation) | Bouckaert RR, Lemey P, Dunn M, Greenhill SJ, Alekseyenko AV, Drummond AJ, Gray RD, Suchard MA & Atkinson QD. 2012. Mapping the Origins and Expansion of the Indo-European Language Family. Science, 337(6097), 957-960.
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF Generic](http://cldf.clld.org/v1.0/terms.rdf#Generic)
+[dc:creator](http://purl.org/dc/terms/creator) | Bouckaert et al.
 [dc:hasPart](http://purl.org/dc/terms/hasPart) | <dl><dt><a href="http://purl.org/dc/terms/relation">dc:relation</a></dt><dd>data.nex</dd><dt><a href="http://purl.org/dc/terms/description">dc:description</a></dt><dd>The data underlying the analysis which created the phylogeny</dd><dt><a href="http://purl.org/dc/terms/format">dc:format</a></dt><dd>https://en.wikipedia.org/wiki/Nexus_file</dd></dl>
-[dc:identifier](http://purl.org/dc/terms/identifier) | http://dx.doi.org/10.1126/science.1219669
-[dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/D-PLACE/dplace-tree-bouckaert_et_al2012
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/D-PLACE/dplace-tree-bouckaert_et_al2012/tree/7af4bdc">D-PLACE/dplace-tree-bouckaert_et_al2012 7af4bdc</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.4">Glottolog v4.4</a></li></ol>
+[dc:identifier](http://purl.org/dc/terms/identifier) | https://doi.org/10.1126/science.1219669
+[dc:subject](http://purl.org/dc/terms/subject) | <dl><dt>scaling</dt><dd>years</dd><dt>analysis</dt><dd>bayesian</dd><dt>family</dt><dd>indo1319</dd></dl>
+[dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/phlorest/bouckaert_et_al2012
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/phlorest/bouckaert_et_al2012/tree/fa057ee">phlorest/bouckaert_et_al2012 fa057ee</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.4">Glottolog v4.4</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>python</strong>: 3.8.10</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | bouckaert_et_al2012
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
