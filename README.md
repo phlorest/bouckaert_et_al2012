@@ -1,4 +1,6 @@
-# Dataset bouckaert_et_al2012
+# Phlorest phylogeny derived from Bouckaert et al. 2012 'Indo-European (Bouckaert et al. 2012)'
+
+[![CLDF validation](https://github.com/phlorest/bouckaert_et_al2012/workflows/CLDF-validation/badge.svg)](https://github.com/phlorest/bouckaert_et_al2012/actions?query=workflow%3ACLDF-validation)
 
 ## How to cite
 
@@ -10,7 +12,9 @@ If you use these data please cite
 ## Description
 
 
-Available online at http://dx.doi.org/10.1126/science.1219669
+This dataset is licensed under a https://creativecommons.org/licenses/by/2.0/ license
+
+Available online at https://doi.org/10.1126/science.1219669
 
 
 ## CLDF Datasets

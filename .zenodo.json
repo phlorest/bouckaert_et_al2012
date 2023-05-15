@@ -1,5 +1,5 @@
 {
-    "title": null,
+    "title": "Phlorest phylogeny derived from Bouckaert et al. 2012 'Indo-European (Bouckaert et al. 2012)'",
     "access_right": "open",
     "keywords": [
         "cldf:Generic",
@@ -10,6 +10,41 @@
     "communities": [
         {
             "identifier": "dplace"
+        }
+    ],
+    "creators": [
+        {
+            "name": "R. Bouckaert"
+        },
+        {
+            "name": "P. Lemey"
+        },
+        {
+            "name": "M. Dunn"
+        },
+        {
+            "name": "A. V. Alekseyenko"
+        },
+        {
+            "name": "A. J. Drummond"
+        },
+        {
+            "name": "R. D. Gray"
+        },
+        {
+            "name": "M. A. Suchard"
+        },
+        {
+            "name": "Q. D. Atkinson"
+        },
+        {
+            "name": "Simon J. Greenhill"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Simon J. Greenhill",
+            "type": "Other"
         }
     ]
 }
