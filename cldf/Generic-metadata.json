@@ -27,13 +27,13 @@
         {
             "rdf:about": "https://github.com/phlorest/bouckaert_et_al2012",
             "rdf:type": "prov:Entity",
-            "dc:created": "26f6e6a",
+            "dc:created": "b83af01",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.7",
+            "dc:created": "v4.8",
             "dc:title": "Glottolog"
         }
     ],
