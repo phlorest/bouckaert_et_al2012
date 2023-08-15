@@ -10,4 +10,6 @@ A. J. Drummond                 |  | author | Author
 R. D. Gray                     |  | author | Author
 M. A. Suchard                  |  | author | Author
 Q. D. Atkinson                 |  | author | Author
-Simon J. Greenhill             | @SimonGreenhill | author, maintainer | Author, Phlorest
+Simon J. Greenhill             | @SimonGreenhill | author, maintainer | Author, Editor
+Robert Forkel | @xrotwang | maintainer | Editor
+
