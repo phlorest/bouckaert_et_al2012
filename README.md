@@ -1,6 +1,7 @@
 # Phlorest phylogeny derived from Bouckaert et al. 2012 'Mapping the Origins and Expansion of the Indo-European Language Family'
 
 [![CLDF validation](https://github.com/phlorest/bouckaert_et_al2012/workflows/CLDF-validation/badge.svg)](https://github.com/phlorest/bouckaert_et_al2012/actions?query=workflow%3ACLDF-validation)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8249915.svg)](https://doi.org/10.5281/zenodo.8249915)
 
 ## How to cite
 
@@ -14,7 +15,7 @@ If you use these data please cite
 A [Phlorest phylogeny](https://github.com/phlorest) of the Indo-European language family computed from a bayesian analysis scaled by years.
 
 
-This dataset is licensed under a https://creativecommons.org/licenses/by/2.0/ license
+This dataset is licensed under a https://creativecommons.org/licenses/by/4.0/ license
 
 Source available online at https://doi.org/10.1126/science.1219669
 
