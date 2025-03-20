@@ -23,7 +23,7 @@ Cornish,Cornish,,50.5233,-4.18619,corn1251,,,Cornish
 Czech,Czech,,49.873398,15.10437,czec1258,,xd567,Czech
 Czech_E,Czech_E,,49.873398,15.10437,czec1258,,,Czech
 Danish,Danish,,54.8655,9.36284,dani1285,,,Danish
-Digor_Ossetic,Digor_Ossetic,,42.98,44.61,digo1242,,xd582,Modern Ossetic
+Digor_Ossetic,Digor_Ossetic,,43.158056,44.156944,digo1242,,xd582,Digor Ossetian
 Dutch_List,Dutch_List,,52.0,5.0,dutc1256,,xd541,Dutch
 English_ST,English_ST,,53.0,-1.0,stan1293,,xd536 xd538,English
 Faroese,Faroese,,62.0732,-6.88497,faro1244,,,Faroese
@@ -33,7 +33,7 @@ Frisian,Frisian,,52.9713,7.73549,east2288,,,East Frisian Low Saxon
 Friulian,Friulian,,46.1473,13.0493,friu1240,,,Friulian
 German_ST,German_ST,,48.649,12.4676,stan1295,,,German
 Gothic,Gothic,,46.9304,29.9786,goth1244,,,Gothic
-Greek_ML,Greek_ML,,,,,,,
+Greek_ML,Greek_ML,,,,aeol1234,,,Aeolic
 Greek_Mod,Greek_Mod,,38.36,23.13,mode1248,,xd534,Modern Greek
 Gujarati,Gujarati,,22.687,71.0962,guja1252,,xd671,Gujarati
 Hindi,Hindi,,25.0,77.0,hind1269,,,Hindi
@@ -57,7 +57,7 @@ Lycian,Lycian,,36.356111,29.318611,mily1238,,,Milyan
 Macedonian,Macedonian,,41.5957,21.7932,mace1250,,,Macedonian
 Marathi,Marathi,,17.9344,76.6665,mara1378,,,Marathi
 Marwari,Marwari,,27.002,75.0656,marw1260,,,Marwari (India)
-Nepali_List,Nepali_List,,27.5947033333,87.6200833333,east1436,,,Eastern Pahari
+Nepali_List,Nepali_List,,28.0,85.0,nepa1254,,,Nepali
 Old_Church_Slavonic,Old_Church_Slavonic,,43.7171,22.8442,chur1257,,,Church Slavic
 Old_English,Old_English,,51.06,-1.31,olde1238,,,Old English (ca. 450-1100)
 Old_High_German,Old_High_German,,52.0,10.0,oldh1241,,,Old High German (ca. 750-1050)
