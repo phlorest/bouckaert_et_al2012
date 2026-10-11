@@ -27,7 +27,7 @@
         {
             "rdf:about": "https://github.com/phlorest/bouckaert_et_al2012",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.2-6-g7a5ff0c",
+            "dc:created": "v1.2-8-gd1a9001",
             "dc:title": "Repository"
         },
         {
